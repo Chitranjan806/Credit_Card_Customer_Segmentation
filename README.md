@@ -13,6 +13,6 @@ That’s where segmenting comes into the picture. Finding all of the unique grou
 <img src="silhouette_graph.png" width=550 height=300 />
 <br>
 Based on the graph above, it is clear that 4 clusters are showing better distinguised characteristics among the group of customers.
-
+<br><br>
 **Distribution with 4 Clusters**<br>
 <img src="clusters_4.PNG" width=350 height=350 />

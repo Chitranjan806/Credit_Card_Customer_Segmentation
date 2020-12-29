@@ -2,7 +2,7 @@
   <body>
     <h1>Credit Card Customer Segmentation</h1>
     <h2>Problem Statement</h2>
-    <p style="color: #333; background: #fff; padding: 3px;"><b>To develop a customer segmentation to define marketing strategy.</b></p>
+    <p style="color:#336699;">To develop a customer segmentation to define marketing strategy.</p>
     <h3>Why Segmentation of Customers?</h3>
     <p><b>Customer segmentation is necessary. You can’t serve every customer the same product, experience, or ad as they won’t resonate with it the same. Doing so results in low-click through rate, engagement, and conversions.
       <br>

@@ -9,10 +9,10 @@ That’s where segmenting comes into the picture. Finding all of the unique grou
 
 
 ### KMeans Clustering
-**Used Silhouette Scores as metric to validate performance of various clusters**
-<img src="silhouette_graph.png" width=150 height=150 />
+**Used Silhouette Scores as metric to validate performance of various clusters**<br>
+<img src="silhouette_graph.png" width=450 height=250 />
 <br>
 Based on the graph above, it is clear that 4 clusters are showing better distinguised characteristics among the group of customers.
 
-**Distribution with 4 Clusters**
-<img src="clusters_4.png" width='150' height='150' />
+**Distribution with 4 Clusters**<br>
+<img src="clusters_4.png" width=200 height=200 />
